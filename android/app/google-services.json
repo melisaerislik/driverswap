@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710305087124",
+    "project_id": "driverswap",
+    "storage_bucket": "driverswap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710305087124:android:4ddfdcfad87929da6c3e81",
+        "android_client_info": {
+          "package_name": "com.example.driver_swap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWJBZBD50pS_zBxGK_57cUERLczI_5_to"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
